@@ -15,3 +15,26 @@ body, html{
     position: absolute;
     margin-left: 416px;
 }
+.frame1{
+    position: absolute;
+    width: 724px;
+    height: 518px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 65px;
+    margin-top: 200px;
+    border-radius: 24px;
+    opacity: 40%;
+}
+.frame2{
+    position: absolute;
+    width: 1312px;
+    height: 171px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 65px;
+    margin-top: 800px;
+    border-radius: 24px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    opacity: 40%;
+}
