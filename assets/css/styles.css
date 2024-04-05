@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "montserrat-r";
+    src: url(/assets/fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: "montserrat-b";
+    src: url(/assets/fonts/Montserrat-Bold.ttf);
+}
 body, html{
     width: 1440px;
     height: 1024px;
