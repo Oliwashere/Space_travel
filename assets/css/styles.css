@@ -38,3 +38,12 @@ body, html{
     border-width: 1px;
     opacity: 40%;
 }
+.boton{
+    position: absolute;
+    width: 182px;
+    height: 66px;
+    margin-left: 120px;
+    margin-top: 620px;
+    background-color: #63E1E1;
+    border-radius: 36px;
+}
