@@ -47,3 +47,28 @@ body, html{
     background-color: #63E1E1;
     border-radius: 36px;
 }
+.bloques{
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 270px;
+}
+.cosito1{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 120px;
+}
+.cosito2{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 440px;
+}
+.cosito3{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 760px;
+}
+.cosito4{
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 1080px;
+}
