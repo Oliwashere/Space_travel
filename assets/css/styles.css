@@ -80,3 +80,91 @@ body, html{
     margin-top: 830px;
     margin-left: 1080px;
 }
+.txt1{
+    position: absolute;
+    font-family: "montserrat-b";
+    color: white;
+    font-size: 64px;
+    margin-left: 120px;
+    margin-top: 300px;
+}
+.txt2{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: white;
+    font-size: 26px;
+    margin-left: 120px;
+    margin-top: 480px;
+}
+.txt3{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    margin-left: 163px;
+    margin-top: 635px;
+}
+.txt4{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    margin-left: 115px;
+    margin-top: 860px;
+}
+.txt5{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-left: 115px;
+    margin-top: 900px;
+}
+.txt6{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    margin-left: 437px;
+    margin-top: 860px;
+}
+.txt7{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-left: 437px;
+    margin-top: 900px;
+}
+.txt8{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    margin-left: 759px;
+    margin-top: 860px;
+}
+.txt9{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-left: 759px;
+    margin-top: 900px;
+}
+.txt10{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    margin-left: 1081px;
+    margin-top: 860px;
+}
+.txt11{
+    position: absolute;
+    font-family: "montserrat-r";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-left: 1081px;
+    margin-top: 900px;
+}
